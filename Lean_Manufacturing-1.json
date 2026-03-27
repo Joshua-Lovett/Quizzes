@@ -1,0 +1,127 @@
+[
+  {
+    "question": "What is the primary goal of lean manufacturing?",
+    "options": ["Maximize production speed regardless of cost", "Maximize customer value while eliminating waste", "Increase workforce size for higher output", "Focus only on reducing labor costs"],
+    "answer": "Maximize customer value while eliminating waste"
+  },
+  {
+    "question": "In lean manufacturing, how is 'waste' defined?",
+    "options": ["Any product that fails quality checks", "Any unused raw materials", "Any action that consumes resources without adding customer value", "Only excess inventory"],
+    "answer": "Any action that consumes resources without adding customer value"
+  },
+  {
+    "question": "Lean manufacturing is primarily based on which system?",
+    "options": ["Ford Assembly Line System", "Six Sigma System", "Toyota Production System", "Agile Manufacturing System"],
+    "answer": "Toyota Production System"
+  },
+  {
+    "question": "What key advantage does lean production have over traditional mass production?",
+    "options": ["It produces more inventory", "It uses fewer resources such as labor and space", "It relies more heavily on automation", "It eliminates the need for management"],
+    "answer": "It uses fewer resources such as labor and space"
+  },
+  {
+    "question": "Who first introduced the term 'lean manufacturing'?",
+    "options": ["James Womack", "Daniel Jones", "John Krafcik", "Daniel Roos"],
+    "answer": "John Krafcik"
+  },
+  {
+    "question": "Which book helped popularize lean manufacturing concepts globally?",
+    "options": ["The Lean Enterprise", "The Machine That Changed the World", "Production Revolution", "Manufacturing Excellence"],
+    "answer": "The Machine That Changed the World"
+  },
+  {
+    "question": "Which of the following is NOT one of the core principles of lean manufacturing?",
+    "options": ["Creating a continuous flow", "Implementing a pull system", "Maximizing internal production capacity", "Defining value for the customer"],
+    "answer": "Maximizing internal production capacity"
+  },
+  {
+    "question": "What does a 'pull system' in lean manufacturing mean?",
+    "options": ["Production is scheduled in advance regardless of demand", "Production is driven by customer demand", "Products are pushed to customers automatically", "Suppliers decide production quantities"],
+    "answer": "Production is driven by customer demand"
+  },
+  {
+    "question": "Which lean principle emphasizes ongoing improvement?",
+    "options": ["Kanban", "Heijunka", "Kaizen", "Jidoka"],
+    "answer": "Kaizen"
+  },
+  {
+    "question": "What is the purpose of Value Stream Mapping (VSM)?",
+    "options": ["To increase employee wages", "To map and analyze the flow of materials and information", "To automate production lines", "To reduce labor costs directly"],
+    "answer": "To map and analyze the flow of materials and information"
+  },
+  {
+    "question": "What does the 5S method primarily aim to achieve?",
+    "options": ["Faster machine speeds", "Higher wages", "An organized and efficient workplace", "Increased product variety"],
+    "answer": "An organized and efficient workplace"
+  },
+  {
+    "question": "What is the main function of SMED?",
+    "options": ["Improve product design", "Reduce machine breakdowns", "Enable quick changeovers in production", "Increase inventory levels"],
+    "answer": "Enable quick changeovers in production"
+  },
+  {
+    "question": "What assumption underlies Poka-Yoke (error proofing)?",
+    "options": ["Errors are caused by employees only", "Errors are unavoidable", "Errors are caused by processes, not people", "Errors only occur in large systems"],
+    "answer": "Errors are caused by processes, not people"
+  },
+  {
+    "question": "What are the two main pillars of the Toyota Production System?",
+    "options": ["Kaizen and Kanban", "Jidoka and Just-In-Time", "5S and SMED", "Pull and Push systems"],
+    "answer": "Jidoka and Just-In-Time"
+  },
+  {
+    "question": "What does Jidoka refer to in TPS?",
+    "options": ["Continuous production scheduling", "Automation with human oversight to detect defects", "Inventory management system", "Supplier coordination"],
+    "answer": "Automation with human oversight to detect defects"
+  },
+  {
+    "question": "What is the main goal of Just-In-Time production?",
+    "options": ["Produce large quantities in advance", "Minimize labor costs", "Produce only what is needed when it is needed", "Maximize storage capacity"],
+    "answer": "Produce only what is needed when it is needed"
+  },
+  {
+    "question": "What role does the customer play in the lean production process?",
+    "options": ["They only receive finished products", "They initiate the production process", "They manage inventory levels", "They control supplier contracts"],
+    "answer": "They initiate the production process"
+  },
+  {
+    "question": "What is the purpose of Heijunka in TPS?",
+    "options": ["Increase production speed", "Balance production and reduce variability", "Eliminate the need for suppliers", "Maximize machine usage"],
+    "answer": "Balance production and reduce variability"
+  },
+  {
+    "question": "Which of the following best describes the benefit of small batch production?",
+    "options": ["Higher inventory levels", "Greater flexibility and responsiveness", "Reduced employee involvement", "Longer production cycles"],
+    "answer": "Greater flexibility and responsiveness"
+  },
+  {
+    "question": "Which sector is an example of lean being applied outside manufacturing?",
+    "options": ["Healthcare", "Mining only", "Agriculture only", "Oil drilling exclusively"],
+    "answer": "Healthcare"
+  },
+  {
+    "question": "What is a key problem in traditional production systems that lean addresses?",
+    "options": ["Too much automation", "Materials spending excessive time waiting in the system", "Too few employees", "Too little product variety"],
+    "answer": "Materials spending excessive time waiting in the system"
+  },
+  {
+    "question": "What improvement in efficiency has been observed with lean implementation?",
+    "options": ["Up to 10%", "Up to 25%", "Up to 66%", "Up to 5%"],
+    "answer": "Up to 66%"
+  },
+  {
+    "question": "How does lean manufacturing impact inventory levels?",
+    "options": ["It increases inventory to avoid shortages", "It eliminates inventory completely", "It significantly reduces inventory levels", "It has no effect on inventory"],
+    "answer": "It significantly reduces inventory levels"
+  },
+  {
+    "question": "Why must lean tools be implemented together as a system?",
+    "options": ["To reduce training costs", "Because they are interdependent and support each other", "To simplify management structure", "Because each tool works independently"],
+    "answer": "Because they are interdependent and support each other"
+  },
+  {
+    "question": "What is a major cultural aspect of lean manufacturing?",
+    "options": ["Top-down decision making only", "Employee disengagement", "Employee involvement in continuous improvement", "Strict automation with no human input"],
+    "answer": "Employee involvement in continuous improvement"
+  }
+]
