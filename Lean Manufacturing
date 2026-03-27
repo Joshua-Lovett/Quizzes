@@ -1,15 +1,4 @@
-FILE: quiz.json
-
-{
-"meta": {
-"title": "⚙ Lean Manufacturing | A pursuit of perfection",
-"author": "EconClips",
-"url": "https://www.youtube.com/watch?v=xkUjX_c32c8&t=32s
-",
-"date": "2020-12-02",
-"generated_at": "2026-03-27T00:00:00Z"
-},
-"questions": [
+[
 {
 "question": "What is the primary goal of lean manufacturing?",
 "options": [
